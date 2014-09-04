@@ -1,0 +1,5 @@
+C:\Users\Technologist\Documents\GitHub\GuessThatNumber\GuessThatNumber\bin\Debug\GuessThatNumber.exe.config
+C:\Users\Technologist\Documents\GitHub\GuessThatNumber\GuessThatNumber\bin\Debug\GuessThatNumber.exe
+C:\Users\Technologist\Documents\GitHub\GuessThatNumber\GuessThatNumber\bin\Debug\GuessThatNumber.pdb
+C:\Users\Technologist\Documents\GitHub\GuessThatNumber\GuessThatNumber\obj\Debug\GuessThatNumber.exe
+C:\Users\Technologist\Documents\GitHub\GuessThatNumber\GuessThatNumber\obj\Debug\GuessThatNumber.pdb
